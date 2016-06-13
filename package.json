@@ -1,0 +1,23 @@
+{
+  "name": "whois",
+  "version": "1.0.0",
+  "description": "whois",
+  "main": "whois.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrik Elfström",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "connect": "^3.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrikElfstrom/whois.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PatrikElfstrom/whois/issues"
+  },
+  "homepage": "https://github.com/PatrikElfstrom/whois#readme"
+}
